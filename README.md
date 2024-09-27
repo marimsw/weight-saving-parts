@@ -1,1 +1,1 @@
-# weight-saving-parts
+Реализовать возможность загрузки/сохранения весов частям  # weight-saving-parts
